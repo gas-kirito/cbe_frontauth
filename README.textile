@@ -8,7 +8,7 @@ A few examples (in french) can be found in the "demonstration page":http://www.c
 h2. Relevant modifications in this fork
 
 Documentation ported from HTML tags to Textile.
-Edit `include_once( txpath.'/lib/txplib_admin.php' )` to make the plugin compatible with Textpattern 4.8.
+Edit @include_once( txpath.'/lib/txplib_admin.php' )@ to make the plugin compatible with Textpattern 4.8.
 This repo also include *cbe_members.php* which is a dependency for *cbe_frontauth*.
 
 h2. Features
